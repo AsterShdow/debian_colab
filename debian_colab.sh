@@ -11,14 +11,6 @@ enda='\033[0m'
 
 clear
 
-# Branding
-
-printf """$c$b
-          
-$endc$enda""";
-
-
-
 # Used Two if else type statements, one is simple second is complex. So, don't get confused or fear by seeing complex if else statement '^^.
 
 # Creation of user
